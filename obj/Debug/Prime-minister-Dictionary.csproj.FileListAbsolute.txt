@@ -1,0 +1,7 @@
+C:\Users\krittika\source\repos\Prime-minister-Dictionary\Prime-minister-Dictionary\bin\Debug\Prime-minister-Dictionary.exe.config
+C:\Users\krittika\source\repos\Prime-minister-Dictionary\Prime-minister-Dictionary\bin\Debug\Prime-minister-Dictionary.exe
+C:\Users\krittika\source\repos\Prime-minister-Dictionary\Prime-minister-Dictionary\bin\Debug\Prime-minister-Dictionary.pdb
+C:\Users\krittika\source\repos\Prime-minister-Dictionary\Prime-minister-Dictionary\obj\Debug\Prime-minister-Dictionary.csprojAssemblyReference.cache
+C:\Users\krittika\source\repos\Prime-minister-Dictionary\Prime-minister-Dictionary\obj\Debug\Prime-minister-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\krittika\source\repos\Prime-minister-Dictionary\Prime-minister-Dictionary\obj\Debug\Prime-minister-Dictionary.exe
+C:\Users\krittika\source\repos\Prime-minister-Dictionary\Prime-minister-Dictionary\obj\Debug\Prime-minister-Dictionary.pdb
